@@ -7,6 +7,8 @@ import { Component, OnInit, Input } from '@angular/core';
   templateUrl: './artikel.component.html',
   styleUrls: ['./artikel.component.css'],
   host: { class: 'row' }
+
+  
 })
 
 export class ArtikelComponent implements OnInit {
